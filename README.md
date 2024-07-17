@@ -9,6 +9,8 @@ rovides a comprehensive overview of the economic performance of all countries in
 ## Dash Application
 The application has the capability of providing a comparitive analysis of different countries to the user. 
 
+https://github.com/omarqureshi9/Dash-App-Per-capita-GDP/blob/c28e2e895ba9c5769b74d55a3535ddd55828d64b/Application%20demo.JPG
+
 The application empowers users to add multiple countries to see the change in the per capita income and compare them.
 
 In a broader sense, this application can be used to  observe trends in economic growth, identify periods of significant economic change, and compare the economic performance of different countries over time. 
