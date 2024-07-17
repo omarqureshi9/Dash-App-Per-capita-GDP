@@ -9,7 +9,7 @@ rovides a comprehensive overview of the economic performance of all countries in
 ## Dash Application
 The application has the capability of providing a comparitive analysis of different countries to the user. 
 
-https://github.com/omarqureshi9/Dash-App-Per-capita-GDP/blob/c28e2e895ba9c5769b74d55a3535ddd55828d64b/Application%20demo.JPG
+![Application demo](https://github.com/user-attachments/assets/55571eae-97d5-4d2b-9cbf-41744c4c0cf7)
 
 The application empowers users to add multiple countries to see the change in the per capita income and compare them.
 
